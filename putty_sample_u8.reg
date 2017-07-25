@@ -99,7 +99,7 @@ Windows Registry Editor Version 5.00
 "Font"="Monaco"
 "FontIsBold"=dword:00000000
 "FontCharSet"=dword:00000000
-"FontHeight"=dword:0000000c
+"FontHeight"=dword:0000000b
 "FontVTMode"=dword:00000004
 "UseSystemColours"=dword:00000000
 "TryPalette"=dword:00000000
